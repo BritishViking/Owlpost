@@ -1,0 +1,17 @@
+Inlogging
+Hashing av innlogging
+
+Alert om error
+Alert når det har skjedd en forandring
+
+Innlegging av html for artikkelkropp
+
+Ny artikkel
+
+Server side bilde gteier
+
+JEST og CI testing
+
+Return statuskoder etter api kall
+
+web Alert til klientej
