@@ -1,4 +1,4 @@
 # Owlpost
-<h1>Pre-requsites<h1>
+<h2>Pre-requsites</h2>
  * Flow needs to be installed globally
 
