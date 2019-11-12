@@ -1,2 +1,4 @@
 # Owlpost
-This is a work in progress project for university
+<h1>Pre-requsites<h1>
+ * Flow needs to be installed globally
+
