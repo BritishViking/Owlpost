@@ -1,5 +1,5 @@
 # Owlpost
-<h2>Pre-requsites</h2>
+<h2>Pre-requisites</h2>
 To work with the project, there are a couple of things that needs to be installed first: 
  <li>Node.js needs to be installed. It can be installed here: https://docs.npmjs.com/</li>
  <li>Flow needs to be installed globally. This can be achieved by running this in the command line after node.js is installed: </li>
